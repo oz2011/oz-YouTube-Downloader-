@@ -29,8 +29,9 @@ Modify User Preferences: Users can change the output directory, audio quality, v
 
 # Installation
 
-[![點擊這裡的圖片](https://github.com/machiav3lli/oandbackupx/raw/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png)]([https://example.com](https://github.com/oz2011/oz-YouTube-Downloader-/releases))
-
+<a href="https://github.com/oz2011/oz-YouTube-Downloader-/releases">
+  <img src="https://github.com/machiav3lli/oandbackupx/raw/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="GET IT" width="300"/>
+</a>
 
 
 # Disclaimer
