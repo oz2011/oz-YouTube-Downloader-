@@ -27,21 +27,7 @@ Choose the download format (1 for mp3, 2 for mp4).
 The program will start downloading and display the number of successful and failed downloads, with the URLs of failed videos shown to the user.
 Modify User Preferences: Users can change the output directory, audio quality, video quality, or language settings through menu options.
 
-Code Structure:
-main(): The main entry point of the program, responsible for initializing logging, loading user preferences, checking program integrity and network connection, checking for GitHub updates, and providing a user operation menu.
+# Disclaimer
+This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC or any of its affiliates and subsidiaries.
 
-setup_logging(): Sets up logging and manages log file sizes.
-
-check_ffmpeg() and check_network(): Check the installation status of FFmpeg and the network connection status.
-
-check_github_release(): Checks for the latest version on GitHub.
-
-load_preferences() and save_preferences(): Load and save user preferences.
-
-reset_preferences(): Resets user preferences to default values.
-
-load_language_file(): Loads the language file.
-
-download_youtube_media(): Downloads YouTube videos or playlists.
-
-set_preferences(): Provides options for users to modify their preferences.
+Any trademark, service mark, trade name, or other intellectual property rights used in this project are owned by the respective owners.
