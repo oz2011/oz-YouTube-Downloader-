@@ -27,6 +27,12 @@ Choose the download format (1 for mp3, 2 for mp4).
 The program will start downloading and display the number of successful and failed downloads, with the URLs of failed videos shown to the user.
 Modify User Preferences: Users can change the output directory, audio quality, video quality, or language settings through menu options.
 
+# Installation
+
+[![點擊這裡的圖片](https://github.com/machiav3lli/oandbackupx/raw/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png)]([https://example.com](https://github.com/oz2011/oz-YouTube-Downloader-/releases))
+
+
+
 # Disclaimer
 This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC or any of its affiliates and subsidiaries.
 
