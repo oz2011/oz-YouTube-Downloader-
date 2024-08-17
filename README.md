@@ -46,4 +46,6 @@ Licensed under the GNU General Public License, Version 3.0 (the "License"); You 
 
 http://www.gnu.org/licenses/#GPL
 
+This project uses [FFmpeg](https://ffmpeg.org/) under the GPL v3 license. Please refer to the FFmpeg [license](https://ffmpeg.org/legal.html) for more details.
+
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
